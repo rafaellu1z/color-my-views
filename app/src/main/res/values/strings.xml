@@ -8,4 +8,5 @@
     <string name="button_red_text">RED</string>
     <string name="button_yellow_text">Yellow</string>
     <string name="button_green_text">Green</string>
+    <string name="ask_permissions">Você não possui permissão necessária a essa tarefa.</string>
 </resources>
